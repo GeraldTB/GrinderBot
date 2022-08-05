@@ -9,3 +9,7 @@
 
 # Obtener tu propio oauth
 https://twitchapps.com/tmi/
+
+# Correr el Bot
+ crea una Terminal y escribe:
+ - node index.js
