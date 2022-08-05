@@ -15,4 +15,5 @@ https://twitchapps.com/tmi/
  - node index.js
  
  # Requisitos
- - text "Node.js" https://nodejs.org/en/
+ - "Node.js" = https://nodejs.org/en/
+ - "Node.js" = [Visual Studio Code](https://code.visualstudio.com/download)
