@@ -7,7 +7,7 @@
 - Ajusta los comandos con que deseas entrar a esos Canales
 
 
-# Obtener tu propio oauth
+# Obtener tu propio OAUTH
 https://twitchapps.com/tmi/
 
 # Correr el Bot
