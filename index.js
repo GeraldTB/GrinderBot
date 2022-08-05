@@ -10,12 +10,10 @@ const options = {
         reconnect: true,
         secure: true
     },
-    identity : {
-        username: 'TU Nombre',
-	password: 'Tu oauth'
-    },
-    channels: [channel]
-};
+    identity : {username: 'TU Nombre',
+		password: 'Tu oauth'},
+	
+	channels: [channel]};
 
 
 
