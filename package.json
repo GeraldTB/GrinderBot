@@ -1,0 +1,14 @@
+{
+  "name": "MosGrinderBOT",
+  "version": "1.0.0",
+  "description": "Bot para Grindear",
+  "main": "index.js",
+  "scripts": {
+    "comandos": ""
+  },
+  "author": "GeraldTB",
+  "license": "",
+  "dependencies": {
+    "tmi.js": "^1.8.5"
+  }
+}
