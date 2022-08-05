@@ -1,6 +1,10 @@
-# Mos Grinder
-Bot que ayuda a Grindear en tu canal de Twitch
-Puede Unirse con !play o !playbot
+#GrinderBot
+
+Bot que ayuda a Grindear en otros canales de Twitch
+
+Puede Unirse a otros canales de Grindeo
+
+Ajusta los comandos con que deseas entrar a esos Canales
 
 
 Obtener tu propio oauth
