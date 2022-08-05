@@ -1,6 +1,6 @@
 // Dependencia de TMI cogiendo configuracion del archivo que creamos config.json
 const tmi = require('tmi.js'),
-    { username, password } = require('./config.json');
+    { channel,username, password } = require('./config.json');
 	
 	
 // Valores 
@@ -14,7 +14,7 @@ const options = {
         username,
         password
     },
-    channels: [TU CANAL]
+    channels: [channel]
 };
 
 
