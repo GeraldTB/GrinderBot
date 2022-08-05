@@ -13,3 +13,6 @@ https://twitchapps.com/tmi/
 # Correr el Bot
  crea una Terminal y escribe:
  - node index.js
+ 
+ # Requisitos
+ - text "Node.js" https://nodejs.org/en/
