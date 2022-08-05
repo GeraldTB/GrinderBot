@@ -26,11 +26,9 @@ client.connect().catch(console.error);
 client.on('message', (channel, user, message, self) => {
     if(self) return;
 	
-	
-// Lo mismo pero aqui lo usamos para crear tipo comandos  !play !playbot y responder a ello.
-if(message == '!play') {
-    client.say(channel, `!plays gerald22VFlorkMos`);
-}
+
+// Cada vez que detecte la palabra fija X que queramos respondera con la respuesta que añadamos.
+if(message == 'playbot') {client.say(channel, `!play`);}
 	
 // Aqui forzamos la respuesta cada vez que detecte en los mensajes que envian X palabra ejemplo.
 if(message.includes("!mos tip 14")) {
