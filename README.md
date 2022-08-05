@@ -1,4 +1,4 @@
-#GrinderBot
+# GrinderBot
 
 Bot que ayuda a Grindear en otros canales de Twitch
 
